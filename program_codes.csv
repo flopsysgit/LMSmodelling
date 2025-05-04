@@ -1,0 +1,432 @@
+PRIMARY_PROGRAM_CODE,PROGRAM_CAMPUS_CODE,PROGRAM_CREDENTIAL_CODE,PROGRAM_CREDENTIAL_NAME,PROGRAM_LONG_NAME,SCHOOL_CODE,CLUSTER_LONG_NAME
+9111,HPC,OCCT,Ontario College Certificate,Personal Support Worker,CH,SCHS-PRACTICAL NURSING AND PSW
+2870,PRO,OCGC,Ontario College Graduate Cert,Paralegal,BU,BUS-LEGAL AND ADMIN STUDIES
+9320,PRO,OCDP,Ontario College Diploma,Fitness and Health Promotion,CH,SCHS-HEALTH AND WELLNESS STUDIES
+2003,OLP,OCDP,Ontario College Diploma,Office Administration - Health Services,BU,BUS-LEGAL AND ADMIN STUDIES
+2001,OLP,OCCT,Ontario College Certificate,Office Administration - General,BU,BUS-LEGAL AND ADMIN STUDIES
+3823,PRO,OCAD,Ontario College Adv. Diploma,Electrical Engineering Technology,ST,SETAS-AD MANUFCT & AUTO TECH (AMAT)
+2865,PRO,OCGC,Ontario College Graduate Cert,Marketing - Research and Analytics,BU,BUS-MARKETING&ENTREPRENEURSHIP
+5850,HPC,OCDP,Ontario College Diploma,Pharmacy Technician,CH,SCHS-HEALTH AND WELLNESS STUDIES
+2801,PRO,OCDP,Ontario College Diploma,Business - Accounting,BU,BUS-ACCOUNTING & FINANCIAL SERVICES
+1808,PRO,OCDP,Ontario College Diploma,Food and Beverage Management,HT,SHTCA-HOSPITALITY MANAGEMENT
+9251,HPC,OCGC,Ontario College Graduate Cert,Bridging to University Nursing,CH,SCHS-REGISTERED  NURSING PROGRAMS
+1813,PRO,OCDP,Ontario College Diploma,Baking and Pastry Arts Management,HT,SHTCA-FOOD AND TOURISM STUDIES
+2825,PRO,OCGC,Ontario College Graduate Cert,Marketing Management,BU,BUS-MARKETING&ENTREPRENEURSHIP
+3622,HPC,OCAD,Ontario College Adv. Diploma,Biotechnology Advanced,ST,SETAS-APPL BIO & ENVIRN SCIENCE
+3632,HPC,OCAD,Ontario College Adv. Diploma,Biotechnology Advanced,ST,SETAS-APPL BIO & ENVIRN SCIENCE
+1202,PRO,OCDP,Ontario College Diploma,Recreation and Leisure Services,CH,SCHS-CHILD STUDIES
+6410,CCC,OCGC,Ontario College Graduate Cert,Interactive Media Management,CA,"CMAD-COMM, MEDIA & DESIGN"
+8112,DAC,OCDP,Ontario College Diploma,Aviation Technician - Aircraft Maintenance,TR,SOT-AVIATION
+1250,PRO,OCDP,Ontario College Diploma,Police Foundations,CH,SCHS-EMERG MGT AND PUBLIC SAFETY
+2328,OLP,OCGC,Ontario College Graduate Cert,Project Management,BU,BUS-BUSINESS & MANAGEMENT STUDIES
+1839,OLP,OCDP,Ontario College Diploma,Event Planning,HT,SHTCA-HOSPITALITY MANAGEMENT
+3468,OLP,OCDP,Ontario College Diploma,Software Engineering Technician,ST,SETAS-INFORM & COMMUNICATION TECH
+3831,PRO,OCCT,Ontario College Certificate,Electrical Techniques,ST,SETAS-AD MANUFCT & AUTO TECH (AMAT)
+2470,PRO,OCCT,Ontario College Certificate,Court Support Services,BU,BUS-LEGAL AND ADMIN STUDIES
+1260,PRO,OCCT,Ontario College Certificate,Pre-Service Firefighter Education and Training,CH,SCHS-EMERG MGT AND PUBLIC SAFETY
+1205,PRO,OCAD,Ontario College Adv. Diploma,Child and Youth Care,CH,SCHS-CHILD STUDIES
+6815,ASH,OCCT,Ontario College Certificate,Pre-Health Sciences Pathway to Certificates and Diplomas,AS,SELS-SCHOOL OF ENG.&LIBERAL STUDIES
+2435,PRO,OCAD,Ontario College Adv. Diploma,Business Administration - Accounting,BU,BUS-ACCOUNTING & FINANCIAL SERVICES
+1831,PRO,OCGC,Ontario College Graduate Cert,Event Management,HT,SHTCA-HOSPITALITY MANAGEMENT
+1235,ASH,OCDP,Ontario College Diploma,Addiction and Mental Health Worker,CH,SCHS-COMMUNITY SERVICES
+1221,PRO,OCDP,Ontario College Diploma,Early Childhood Education,CH,SCHS-CHILD STUDIES
+3506,HPC,OCCT,Ontario College Certificate,Medical Laboratory Technician,ST,SETAS-APPL BIO & ENVIRN SCIENCE
+9351,HPC,OCDP,Ontario College Diploma,Practical Nursing,CH,SCHS-PRACTICAL NURSING AND PSW
+2843,PRO,OCGC,Ontario College Graduate Cert,Financial Planning,BU,BUS-ACCOUNTING & FINANCIAL SERVICES
+2570,PRO,OCDP,Ontario College Diploma,Paralegal - Court and Tribunal Agent,BU,BUS-LEGAL AND ADMIN STUDIES
+9153,HPC,OCDP,Ontario College Diploma,Esthetician,CH,SCHS-HEALTH AND WELLNESS STUDIES
+2406,PRO,OCAD,Ontario College Adv. Diploma,Business Administration - Leadership and Management,BU,BUS-BUSINESS & MANAGEMENT STUDIES
+1607,HPC,OCDP,Ontario College Diploma,Nutrition and Food Service Management,CH,SCHS-HEALTH AND WELLNESS STUDIES
+2821,SUZ,OCDP,Ontario College Diploma,Business - International Business,BU,
+4221,HPC,OCDP,Ontario College Diploma,Environmental Technician,ST,SETAS-APPL BIO & ENVIRN SCIENCE
+2528,PRO,OCGC,Ontario College Graduate Cert,Project Management - Organizational Strategy,BU,BUS-BUSINESS & MANAGEMENT STUDIES
+3425,PRO,OCAD,Ontario College Adv. Diploma,Computer Systems Technology - Networking,ST,SETAS-INFORM & COMMUNICATION TECH
+2805,PRO,OCDP,Ontario College Diploma,Business - Marketing,BU,BUS-MARKETING&ENTREPRENEURSHIP
+2409,PRO,OCAD,Ontario College Adv. Diploma,Business Administration - International Business,BU,BUS-INTERNATIONAL BUSINESS & LOGIST
+3609,OLP,OCAD,Ontario College Adv. Diploma,Game - Programming,ST,SETAS-INFORM & COMMUNICATION TECH
+3223,PRO,OCGC,Ontario College Graduate Cert,Mobile Applications Development,ST,SETAS-INFORM & COMMUNICATION TECH
+1810,PRO,OCCT,Ontario College Certificate,Baking Skills,HT,SHTCA-FOOD AND TOURISM STUDIES
+3462,OLP,OCAD,Ontario College Adv. Diploma,Software Engineering Technology - Artificial Intelligence,ST,SETAS-INFORM & COMMUNICATION TECH
+3125,HPC,OCAD,Ontario College Adv. Diploma,Architectural Technology,ST,SETAS - SDRE
+3404,PRO,OCDP,Ontario College Diploma,Computer Systems Technician - Networking,ST,SETAS-INFORM & COMMUNICATION TECH
+6700,HPC,OCCT,Ontario College Certificate,General Arts and Science,AS,SELS-SCHOOL OF ENG.&LIBERAL STUDIES
+1811,PRO,OCDP,Ontario College Diploma,Culinary Management,HT,SHTCA-FOOD AND TOURISM STUDIES
+3408,PRO,OCDP,Ontario College Diploma,Software Engineering Technician,ST,SETAS-INFORM & COMMUNICATION TECH
+2603,PRO,OCDP,Ontario College Diploma,Office Administration - Health Services,BU,BUS-LEGAL AND ADMIN STUDIES
+1860,OLP,OCCT,Ontario College Certificate,Baking Skills,HT,SHTCA-FOOD AND TOURISM STUDIES
+3407,PRO,OCAD,Ontario College Adv. Diploma,Biomedical Engineering Technology,ST,SETAS-APPL BIO & ENVIRN SCIENCE
+3608,OLP,OCAD,Ontario College Adv. Diploma,Architectural Technology,ST,SETAS - SDRE
+8406,ASH,OCDP,Ontario College Diploma,Auto Body Repair Technician,TR,SOT - AUTOMOTIVE & MOTORCYCLE
+8113,DAC,OCDP,Ontario College Diploma,Aviation Technician - Avionics Maintenance,TR,SOT-AVIATION
+2809,PRO,OCDP,Ontario College Diploma,Business - International Business,BU,BUS-INTERNATIONAL BUSINESS & LOGIST
+3721,DAC,OCDP,Ontario College Diploma,Aerospace Manufacturing Engineering Technician,ST,SETAS-AD MANUFCT & AUTO TECH (AMAT)
+3422,PRO,OCAD,Ontario College Adv. Diploma,Software Engineering Technology - Artificial Intelligence,ST,SETAS-INFORM & COMMUNICATION TECH
+1819,PRO,OCCT,Ontario College Certificate,Hospitality Skills,HT,SHTCA-HOSPITALITY MANAGEMENT
+6424,CCC,OCGC,Ontario College Graduate Cert,Childrenâ€™s Media,CA,"CMAD-COMM, MEDIA & DESIGN"
+6701,HPC,OCDP,Ontario College Diploma,Liberal Arts,AS,SELS-SCHOOL OF ENG.&LIBERAL STUDIES
+3601,HPC,OCDP,Ontario College Diploma,Biotechnology,ST,SETAS-APPL BIO & ENVIRN SCIENCE
+2895,PRO,OCGC,Ontario College Graduate Cert,International Development,BU,BUS-INTERNATIONAL BUSINESS & LOGIST
+3607,OLP,OCAD,Ontario College Adv. Diploma,Architectural Technology,ST,SETAS - SDRE
+3218,PRO,OCCT,Ontario College Certificate,Computer Repair and Maintenance,ST,SETAS-INFORM & COMMUNICATION TECH
+1812,PRO,OCCT,Ontario College Certificate,Culinary Skills,HT,SHTCA-FOOD AND TOURISM STUDIES
+2803,PRO,OCDP,Ontario College Diploma,Business,BU,BUS-BUSINESS & MANAGEMENT STUDIES
+2890,PRO,OCGC,Ontario College Graduate Cert,Insurance Management,BU,BUS-ACCOUNTING & FINANCIAL SERVICES
+3435,PRO,OCAD,Ontario College Adv. Diploma,Computer Systems Technology - Networking,ST,SETAS-INFORM & COMMUNICATION TECH
+3402,PRO,OCAD,Ontario College Adv. Diploma,Software Engineering Technology - Artificial Intelligence,ST,SETAS-INFORM & COMMUNICATION TECH
+2841,PRO,OCGC,Ontario College Graduate Cert,Strategic Management,BU,BUS-BUSINESS & MANAGEMENT STUDIES
+1833,PRO,OCGC,Ontario College Graduate Cert,Food Media,HT,SHTCA-FOOD AND TOURISM STUDIES
+8234,ASH,OCDP,Ontario College Diploma,Motive Power - Truck and Coach Technician,TR,SOT- MOTIVE POWER
+8214,ASH,OCDP,Ontario College Diploma,Motive Power - Truck and Coach Technician,TR,SOT- MOTIVE POWER
+6409,CCC,OCCT,Ontario College Certificate,Art and Design Fundamentals,CA,CMAD-ARTS & DESIGN
+3606,OLP,OCDP,Ontario College Diploma,Architectural Technician,ST,SETAS - SDRE
+3469,OLP,OCAD,Ontario College Adv. Diploma,Software Engineering Technology,ST,SETAS-INFORM & COMMUNICATION TECH
+9352,HPC,OCDP,Ontario College Diploma,Practical Nursing,CH,SCHS-PRACTICAL NURSING AND PSW
+3101,HPC,OCDP,Ontario College Diploma,Architectural Technician,ST,SETAS - SDRE
+2846,PRO,OCGC,Ontario College Graduate Cert,Marketing - Corporate Account Management,BU,BUS-MARKETING&ENTREPRENEURSHIP
+131,PRO,ADEG,Degree,Honours Bachelor of Information Technology (Computer and Communication Networks),ST,SETAS-INFORM & COMMUNICATION TECH
+1203,ASH,OCDP,Ontario College Diploma,Social Service Worker,CH,SCHS-COMMUNITY SERVICES
+6459,OLP,OCCT,Ontario College Certificate,Art & Design Fundamentals,CA,CMAD-ARTS & DESIGN
+1201,ASH,OCDP,Ontario College Diploma,Early Childhood Education,CH,SCHS-CHILD STUDIES
+6416,CCC,OCCT,Ontario College Certificate,Communications and Media Fundamentals,CA,"CMAD-COMM, MEDIA & DESIGN"
+2880,PRO,OCGC,Ontario College Graduate Cert,Global Business Management,BU,BUS-INTERNATIONAL BUSINESS & LOGIST
+2859,PRO,OCGC,Ontario College Graduate Cert,International Business Management,BU,BUS-INTERNATIONAL BUSINESS & LOGIST
+2701,PRO,OCCT,Ontario College Certificate,Office Administration - General,BU,BUS-LEGAL AND ADMIN STUDIES
+2405,PRO,OCAD,Ontario College Adv. Diploma,Business Administration - Accounting,BU,BUS-ACCOUNTING & FINANCIAL SERVICES
+3822,PRO,OCDP,Ontario College Diploma,Electrical Engineering Technician,ST,SETAS-AD MANUFCT & AUTO TECH (AMAT)
+6616,ASH,OCCT,Ontario College Certificate,General Arts and Science - English for Academic Purposes,AS,SELS-SCHOOL OF ENG.&LIBERAL STUDIES
+5110,HPC,OCAD,Ontario College Adv. Diploma,Massage Therapy,CH,SCHS-HEALTH AND WELLNESS STUDIES
+1241,PRO,OCDP,Ontario College Diploma,Early Childhood Education,CH,SCHS-RESTRICTED FUNDS
+1834,PRO,OCGC,Ontario College Graduate Cert,Food Tourism,HT,SHTCA-FOOD AND TOURISM STUDIES
+3105,HPC,OCAD,Ontario College Adv. Diploma,Architectural Technology,ST,SETAS - SDRE
+3130,HPC,OCGC,Ontario College Graduate Cert,Construction Project Management,ST,SETAS - SDRE
+2006,OLP,OCDP,Ontario College Diploma,Office Administration - Executive,BU,BUS-LEGAL AND ADMIN STUDIES
+9350,HPC,OCDP,Ontario College Diploma,Practical Nursing,CH,SCHS-PRACTICAL NURSING AND PSW
+6431,CCC,OCGC,Ontario College Graduate Cert,Arts Management,CA,CMAD-ARTS & DESIGN
+2860,PRO,OCGC,Ontario College Graduate Cert,Human Resources Management,BU,BUS-BUSINESS & MANAGEMENT STUDIES
+6421,CCC,OCDP,Ontario College Diploma,Fine Art Studio,CA,CMAD-ARTS & DESIGN
+3409,PRO,OCAD,Ontario College Adv. Diploma,Software Engineering Technology,ST,SETAS-INFORM & COMMUNICATION TECH
+2861,PRO,OCGC,Ontario College Graduate Cert,Human Resources Management,BU,BUS-BUSINESS & MANAGEMENT STUDIES
+2709,PRO,OCAD,Ontario College Adv. Diploma,Business Administration - Human Resources,BU,BUS-BUSINESS & MANAGEMENT STUDIES
+6450,PAC,OCAD,Ontario College Adv. Diploma,Music Industry Arts and Performance,CA,CMAD-ARTS & DESIGN
+2483,PRO,OCDP,Ontario College Diploma,Financial Services,BU,BUS-ACCOUNTING & FINANCIAL SERVICES
+1873,OLP,OCDP,Ontario College Diploma,Baking and Pastry Arts Management,HT,SHTCA-FOOD AND TOURISM STUDIES
+2506,PRO,OCDP,Ontario College Diploma,Business - Supply Chain and Operations,BU,BUS-INTERNATIONAL BUSINESS & LOGIST
+2381,OLP,OCDP,Ontario College Diploma,Business - Accounting,BU,BUS-ACCOUNTING & FINANCIAL SERVICES
+1620,HPC,OCCT,Ontario College Certificate,Food Service Worker,CH,SCHS-HEALTH AND WELLNESS STUDIES
+3825,PRO,OCDP,Ontario College Diploma,"Heating, Refrigeration and Air Conditioning Technician",ST,SETAS - SDRE
+9260,HPC,BSCN,Bachelor of Science Nursing,Collaborative Nursing,CH,SCHS-REGISTERED  NURSING PROGRAMS
+4105,PRO,OCDP,Ontario College Diploma,Electromechanical Engineering Technician,ST,SETAS-AD MANUFCT & AUTO TECH (AMAT)
+3747,PRO,OCAD,Ontario College Adv. Diploma,Mechanical Engineering Technology - Industrial,ST,SETAS-AD MANUFCT & AUTO TECH (AMAT)
+3428,PRO,OCDP,Ontario College Diploma,Software Engineering Technician,ST,SETAS-INFORM & COMMUNICATION TECH
+8405,ASH,OCCT,Ontario College Certificate,Auto Body Repair Techniques,TR,SOT - AUTOMOTIVE & MOTORCYCLE
+1832,CCC,OCGC,Ontario College Graduate Cert,Museum and Cultural Management,CA,"CMAD-COMM, MEDIA & DESIGN"
+6422,CCC,OCDP,Ontario College Diploma,Game - Art,CA,CMAD-ARTS & DESIGN
+3776,PRO,OCAD,Ontario College Adv. Diploma,Energy Systems Engineering Technology,ST,SETAS - SDRE
+2804,PRO,OCDP,Ontario College Diploma,Law Clerk,BU,BUS-LEGAL AND ADMIN STUDIES
+6425,CCC,OCGC,Ontario College Graduate Cert,Advertising - Creative and Digital Strategy,CA,"CMAD-COMM, MEDIA & DESIGN"
+8226,ASH,OCDP,Ontario College Diploma,Motive Power Technician,TR,SOT - AUTOMOTIVE & MOTORCYCLE
+6020,OLP,OCAD,Ontario College Adv. Diploma,Graphic Design,CA,CMAD-ARTS & DESIGN
+2862,PRO,OCGC,Ontario College Graduate Cert,Supply Chain Management - Logistics,BU,BUS-INTERNATIONAL BUSINESS & LOGIST
+3129,PRO,OCAD,Ontario College Adv. Diploma,Game - Programming,ST,SETAS-INFORM & COMMUNICATION TECH
+3424,PRO,OCDP,Ontario College Diploma,Computer Systems Technician - Networking,ST,SETAS-INFORM & COMMUNICATION TECH
+3620,HPC,OCAD,Ontario College Adv. Diploma,Food Science Technology,ST,SETAS-APPL BIO & ENVIRN SCIENCE
+1213,HPC,OCGC,Ontario College Graduate Cert,Workplace Wellness and Health Promotion,CH,SCHS-HEALTH AND WELLNESS STUDIES
+9158,HPC,OCDP,Ontario College Diploma,Healthcare Environmental Services Management,CH,SCHS-HEALTH AND WELLNESS STUDIES
+6417,CCC,OCGC,Ontario College Graduate Cert,Public Relations - Corporate Communications,CA,"CMAD-COMM, MEDIA & DESIGN"
+8215,ASH,OCDP,Ontario College Diploma,Motive Power - Heavy Duty Equipment Technician,TR,SOT- MOTIVE POWER
+3631,HPC,OCAD,Ontario College Adv. Diploma,Food Science Technology,ST,SETAS-APPL BIO & ENVIRN SCIENCE
+6432,CCC,OCAD,Ontario College Adv. Diploma,Game - Development,CA,CMAD-ARTS & DESIGN
+3621,HPC,OCDP,Ontario College Diploma,Biotechnology,ST,SETAS-APPL BIO & ENVIRN SCIENCE
+1830,PRO,OCGC,Ontario College Graduate Cert,"Hotel, Resort and Restaurant Management",HT,SHTCA-HOSPITALITY MANAGEMENT
+6429,CCC,OCGC,Ontario College Graduate Cert,Advanced Television and Film - Script to Screen,CA,"CMAD-COMM, MEDIA & DESIGN"
+6401,CCC,OCAD,Ontario College Adv. Diploma,"Broadcasting - Radio, Television, Film and Digital Media",CA,"CMAD-COMM, MEDIA & DESIGN"
+3517,CCC,OCAD,Ontario College Adv. Diploma,Product Design and Development,CA,CMAD-ARTS & DESIGN
+1230,ASH,OCDP,Ontario College Diploma,Community Development Work,CH,SCHS-COMMUNITY SERVICES
+3405,PRO,OCAD,Ontario College Adv. Diploma,Computer Systems Technology - Networking,ST,SETAS-INFORM & COMMUNICATION TECH
+8208,ASH,OCCT,Ontario College Certificate,Motive Power Fundamentals,TR,SOT- MOTIVE POWER
+3109,PRO,OCAD,Ontario College Adv. Diploma,Game - Programming,ST,SETAS-INFORM & COMMUNICATION TECH
+3224,PRO,OCGC,Ontario College Graduate Cert,Cybersecurity,ST,SETAS-INFORM & COMMUNICATION TECH
+3528,PRO,OCAD,Ontario College Adv. Diploma,Health Informatics Technology,ST,SETAS-INFORM & COMMUNICATION TECH
+9253,HPC,OCGC,Ontario College Graduate Cert,Bridging to University Nursing,CH,SCHS-REGISTERED  NURSING PROGRAMS
+3704,PRO,OCAD,Ontario College Adv. Diploma,Mechanical Engineering Technology - Industrial,ST,SETAS-AD MANUFCT & AUTO TECH (AMAT)
+1206,PRO,OCDP,Ontario College Diploma,Community and Justice Services,CH,SCHS-COMMUNITY SERVICES
+2906,PRO,OCCT,Ontario College Certificate,Bookkeeping,BU,BUS-ACCOUNTING & FINANCIAL SERVICES
+8202,ASH,OCDP,Ontario College Diploma,Motive Power Technician,TR,SOT- MOTIVE POWER
+1824,PRO,OCDP,Ontario College Diploma,Tourism,HT,SHTCA-FOOD AND TOURISM STUDIES
+6406,CCC,OCDP,Ontario College Diploma,Photography,CA,CMAD-ARTS & DESIGN
+6423,CCC,OCDP,Ontario College Diploma,Animation - 3D,CA,CMAD-ARTS & DESIGN
+3205,PRO,OCDP,Ontario College Diploma,Electronics Engineering Technician,ST,SETAS - SDRE
+4125,PRO,OCDP,Ontario College Diploma,Electromechanical Engineering Technician,ST,SETAS-AD MANUFCT & AUTO TECH (AMAT)
+3725,PRO,OCDP,Ontario College Diploma,Mechanical Engineering Technician - Design,ST,SETAS-AD MANUFCT & AUTO TECH (AMAT)
+1807,PRO,OCDP,Ontario College Diploma,Hospitality - Hotel Operations Management,HT,SHTCA-HOSPITALITY MANAGEMENT
+1207,ASH,OCDP,Ontario College Diploma,Developmental Services Worker,CH,SCHS-COMMUNITY SERVICES
+6402,CCC,OCAD,Ontario College Adv. Diploma,Journalism,CA,"CMAD-COMM, MEDIA & DESIGN"
+9151,HPC,OCDP,Ontario College Diploma,Occupational Therapist Assistant and Physiotherapist Assistant,CH,SCHS-HEALTH AND WELLNESS STUDIES
+6444,CCC,OCGC,Ontario College Graduate Cert,Contemporary Journalism,CA,"CMAD-COMM, MEDIA & DESIGN"
+9101,HPC,OCDP,Ontario College Diploma,Paramedic,CH,SCHS-EMERG MGT AND PUBLIC SAFETY
+3775,PRO,OCDP,Ontario College Diploma,Energy Systems Engineering Technician,ST,SETAS - SDRE
+6403,CCC,OCGC,Ontario College Graduate Cert,Advertising Media Management,CA,"CMAD-COMM, MEDIA & DESIGN"
+8403,ASH,OCCT,Ontario College Certificate,Motorcycle and Powersports Products Repair Techniques,TR,SOT - AUTOMOTIVE & MOTORCYCLE
+2606,PRO,OCDP,Ontario College Diploma,Office Administration - Executive,BU,BUS-LEGAL AND ADMIN STUDIES
+2850,PRO,OCGC,Ontario College Graduate Cert,Marketing - Digital Engagement Strategy,BU,BUS-MARKETING&ENTREPRENEURSHIP
+4126,PRO,OCAD,Ontario College Adv. Diploma,Electromechanical Engineering Technology,ST,SETAS-AD MANUFCT & AUTO TECH (AMAT)
+3722,DAC,OCAD,Ontario College Adv. Diploma,Aerospace Manufacturing Engineering Technology,ST,SETAS-AD MANUFCT & AUTO TECH (AMAT)
+2403,PRO,OCAD,Ontario College Adv. Diploma,Business Administration - Marketing,BU,BUS-MARKETING&ENTREPRENEURSHIP
+3755,PRO,OCDP,Ontario College Diploma,Energy Systems Engineering Technician,ST,SETAS - SDRE
+2308,OLP,OCDP,Ontario College Diploma,Business,BU,BUS-BUSINESS & MANAGEMENT STUDIES
+3833,PRO,OCAD,Ontario College Adv. Diploma,Electrical Engineering Technology,ST,SETAS-AD MANUFCT & AUTO TECH (AMAT)
+6400,PAC,OCCT,Ontario College Certificate,Performing Arts Fundamentals,CA,CMAD-ARTS & DESIGN
+8120,DAC,OCCT,Ontario College Certificate,Airframe Assembly,TR,SOT-AIRFRAME ASSEMBLY
+901,HPC,OCDP,Ontario College Diploma,Paramedic,CH,SCHS-EMERG MGT AND PUBLIC SAFETY
+2460,PRO,OCDP,Ontario College Diploma,Fashion Business and Management,BU,BUS-MARKETING&ENTREPRENEURSHIP
+2845,PRO,OCGC,Ontario College Graduate Cert,Marketing - Research and Analytics,BU,BUS-MARKETING&ENTREPRENEURSHIP
+1881,PRO,OCDP,Ontario College Diploma,Culinary Management,HT,SHTCA-FOOD AND TOURISM STUDIES
+2493,PRO,OCAD,Ontario College Adv. Diploma,Business Administration - Finance,BU,BUS-ACCOUNTING & FINANCIAL SERVICES
+6470,PAC,OCAD,Ontario College Adv. Diploma,Theatre Arts and Performance,CA,CMAD-ARTS & DESIGN
+3206,PRO,OCAD,Ontario College Adv. Diploma,Electronics Engineering Technology,ST,SETAS - SDRE
+1835,OLP,OCGC,Ontario College Graduate Cert,Event Management,HT,SHTCA-HOSPITALITY MANAGEMENT
+2305,OLP,OCDP,Ontario College Diploma,Business - Marketing,BU,BUS-MARKETING&ENTREPRENEURSHIP
+2844,PRO,OCGC,Ontario College Graduate Cert,Strategic Management - Accounting Specialization,BU,BUS-ACCOUNTING & FINANCIAL SERVICES
+3222,PRO,OCAD,Ontario College Adv. Diploma,Electronics Engineering Technology,ST,SETAS - SDRE
+3701,PRO,OCDP,Ontario College Diploma,Mechanical Engineering Technician - Design,ST,SETAS-AD MANUFCT & AUTO TECH (AMAT)
+6404,CCC,OCAD,Ontario College Adv. Diploma,Advertising and Marketing Communications Management,CA,"CMAD-COMM, MEDIA & DESIGN"
+2864,PRO,OCGC,Ontario College Graduate Cert,Supply Chain Management - Logistics,BU,BUS-INTERNATIONAL BUSINESS & LOGIST
+6435,CCC,OCDP,Ontario College Diploma,Digital Visual Effects,CA,CMAD-ARTS & DESIGN
+2849,PRO,OCGC,Ontario College Graduate Cert,Marketing - Digital Engagement Strategy,BU,BUS-MARKETING&ENTREPRENEURSHIP
+4106,PRO,OCAD,Ontario College Adv. Diploma,Electromechanical Engineering Technology,ST,SETAS-AD MANUFCT & AUTO TECH (AMAT)
+2122,PRO,OCCT,Ontario College Certificate,Business Foundations,BU,BUS-MARKETING&ENTREPRENEURSHIP
+3427,PRO,OCAD,Ontario College Adv. Diploma,Biomedical Engineering Technology,ST,SETAS-APPL BIO & ENVIRN SCIENCE
+1861,OLP,OCDP,Ontario College Diploma,Culinary Management,HT,SHTCA-FOOD AND TOURISM STUDIES
+6430,CCC,OCGC,Ontario College Graduate Cert,Television and Film - Business,CA,"CMAD-COMM, MEDIA & DESIGN"
+6705,HPC,OCDP,Ontario College Diploma,Liberal Arts,AS,SELS-SCHOOL OF ENG.&LIBERAL STUDIES
+2360,OLP,OCGC,Ontario College Graduate Cert,Human Resources Management,BU,BUS-BUSINESS & MANAGEMENT STUDIES
+8312,DAC,OCAD,Ontario College Adv. Diploma,Aviation Technology - Aircraft Maintenance and Management,TR,SOT-AVIATION
+2868,PRO,OCGC,Ontario College Graduate Cert,Business Analytics and Insights,BU,BUS-MARKETING&ENTREPRENEURSHIP
+2507,PRO,OCAD,Ontario College Adv. Diploma,Business Administration - Supply Chain and Operations Management,BU,BUS-INTERNATIONAL BUSINESS & LOGIST
+6707,HPC,OCDP,Ontario College Diploma,Liberal Arts,AS,SELS-SCHOOL OF ENG.&LIBERAL STUDIES
+1883,PRO,OCDP,Ontario College Diploma,Baking and Pastry Arts Management,HT,SHTCA-FOOD AND TOURISM STUDIES
+8232,ASH,OCDP,Ontario College Diploma,Motive Power Technician,TR,SOT- MOTIVE POWER
+1862,OLP,OCCT,Ontario College Certificate,Culinary Skills,HT,SHTCA-FOOD AND TOURISM STUDIES
+3602,HPC,OCAD,Ontario College Adv. Diploma,Biotechnology Advanced,ST,SETAS-APPL BIO & ENVIRN SCIENCE
+9310,HPC,OCCT,Ontario College Certificate,Health Studies and Communication Skills,CH,SCHS-PRACTICAL NURSING AND PSW
+4202,HPC,OCAD,Ontario College Adv. Diploma,Environmental Technology,ST,SETAS-APPL BIO & ENVIRN SCIENCE
+3633,HPC,OCAD,Ontario College Adv. Diploma,Food Science Technology,ST,SETAS-APPL BIO & ENVIRN SCIENCE
+3229,PRO,OCGC,Ontario College Graduate Cert,Internet of Things - System Architecture and Integration,ST,SETAS-INFORM & COMMUNICATION TECH
+8210,ASH,OCDP,Ontario College Diploma,Automotive Parts and Service Operations,TR,SOT - AUTOMOTIVE & MOTORCYCLE
+2002,OLP,OCDP,Ontario College Diploma,Office Administration - Legal,BU,BUS-LEGAL AND ADMIN STUDIES
+1887,PRO,OCDP,Ontario College Diploma,Hospitality - Hotel Operations Management,HT,SHTCA-HOSPITALITY MANAGEMENT
+3135,HPC,OCAD,Ontario College Adv. Diploma,Architectural Technology,ST,SETAS - SDRE
+3429,PRO,OCAD,Ontario College Adv. Diploma,Software Engineering Technology,ST,SETAS-INFORM & COMMUNICATION TECH
+1232,PRO,OCCT,Ontario College Certificate,Community Services and Child Studies Foundations,CH,SCHS-COMMUNITY SERVICES
+2602,PRO,OCDP,Ontario College Diploma,Office Administration - Legal,BU,BUS-LEGAL AND ADMIN STUDIES
+1805,PRO,OCAD,Ontario College Adv. Diploma,Hospitality and Tourism Administration,HT,SHTCA-FOOD AND TOURISM STUDIES
+2816,PRO,OCDP,Ontario College Diploma,Business - Human Resources,BU,BUS-BUSINESS & MANAGEMENT STUDIES
+6443,CCC,OCGC,Ontario College Graduate Cert,Contemporary Journalism,CA,"CMAD-COMM, MEDIA & DESIGN"
+3703,PRO,OCAD,Ontario College Adv. Diploma,Mechanical Engineering Technology - Design,ST,SETAS-AD MANUFCT & AUTO TECH (AMAT)
+8313,DAC,OCAD,Ontario College Adv. Diploma,Aviation Technology - Avionics Maintenance and Management,TR,SOT-AVIATION
+6436,CCC,OCGC,Ontario College Graduate Cert,Lifestyle Media,CA,"CMAD-COMM, MEDIA & DESIGN"
+602,CCC,OCCT,Ontario College Certificate,New Media Design,CA,CMAD-ARTS & DESIGN
+3628,OLP,OCAD,Ontario College Adv. Diploma,Architectural Technology,ST,SETAS - SDRE
+1838,PRO,OCDP,Ontario College Diploma,Event Planning,HT,SHTCA-HOSPITALITY MANAGEMENT
+3472,OLP,OCAD,Ontario College Adv. Diploma,Software Engineering Technology - Artificial Intelligence,ST,SETAS-INFORM & COMMUNICATION TECH
+3452,OLP,OCAD,Ontario College Adv. Diploma,Software Engineering Technology - Artificial Intelligence,ST,SETAS-INFORM & COMMUNICATION TECH
+3478,OLP,OCDP,Ontario College Diploma,Software Engineering Technician,ST,SETAS-INFORM & COMMUNICATION TECH
+3508,PRO,OCAD,Ontario College Adv. Diploma,Health Informatics Technology,ST,SETAS-INFORM & COMMUNICATION TECH
+6460,PAC,OCDP,Ontario College Diploma,Dance Performance,CA,CMAD-ARTS & DESIGN
+1621,PRO,OCCT,Ontario College Certificate,Food Service Worker,CH,SCHS-HEALTH AND WELLNESS STUDIES
+6480,SUZ,OCAD,Ontario College Adv. Diploma,Graphic Design,CA,CMAD-ARTS & DESIGN
+3735,PRO,OCAD,Ontario College Adv. Diploma,Mechanical Engineering Technology - Design,ST,SETAS-AD MANUFCT & AUTO TECH (AMAT)
+6438,CCC,OCGC,Ontario College Graduate Cert,"Publishing - Book, Magazine and Electronic",CA,"CMAD-COMM, MEDIA & DESIGN"
+3756,PRO,OCAD,Ontario College Adv. Diploma,Energy Systems Engineering Technology,ST,SETAS - SDRE
+3832,PRO,OCDP,Ontario College Diploma,Electrical Engineering Technician,ST,SETAS-AD MANUFCT & AUTO TECH (AMAT)
+6420,CCC,OCAD,Ontario College Adv. Diploma,Graphic Design,CA,CMAD-ARTS & DESIGN
+3432,PRO,OCAD,Ontario College Adv. Diploma,Software Engineering Technology - Artificial Intelligence,ST,SETAS-INFORM & COMMUNICATION TECH
+8235,ASH,OCDP,Ontario College Diploma,Motive Power - Heavy Duty Equipment Technician,TR,SOT- MOTIVE POWER
+3221,PRO,OCDP,Ontario College Diploma,Electronics Engineering Technician,ST,SETAS - SDRE
+617,CCC,ADEG,Degree,Honours Bachelor of Public Relations Management,CA,"CMAD-COMM, MEDIA & DESIGN"
+6426,CCC,OCGC,Ontario College Graduate Cert,Arts Education and Community Engagement,CA,CMAD-ARTS & DESIGN
+4201,HPC,OCDP,Ontario College Diploma,Environmental Technician,ST,SETAS-APPL BIO & ENVIRN SCIENCE
+3002,PRO,OCCT,Ontario College Certificate,Technology Foundations,ST,SETAS - SDRE
+4222,HPC,OCAD,Ontario College Adv. Diploma,Environmental Technology,ST,SETAS-APPL BIO & ENVIRN SCIENCE
+4232,HPC,OCAD,Ontario College Adv. Diploma,Environmental Technology,ST,SETAS-APPL BIO & ENVIRN SCIENCE
+3437,PRO,OCAD,Ontario College Adv. Diploma,Biomedical Engineering Technology,ST,SETAS-APPL BIO & ENVIRN SCIENCE
+3439,PRO,OCAD,Ontario College Adv. Diploma,Software Engineering Technology,ST,SETAS-INFORM & COMMUNICATION TECH
+3139,PRO,OCAD,Ontario College Adv. Diploma,Game - Programming,ST,SETAS-INFORM & COMMUNICATION TECH
+3232,PRO,OCAD,Ontario College Adv. Diploma,Electronics Engineering Technology,ST,SETAS - SDRE
+2866,PRO,OCGC,Ontario College Graduate Cert,Marketing - Corporate Account Management,BU,BUS-MARKETING&ENTREPRENEURSHIP
+3538,PRO,OCAD,Ontario College Adv. Diploma,Health Informatics Technology,ST,SETAS-INFORM & COMMUNICATION TECH
+3489,SUZ,OCDP,Ontario College Diploma,Software Engineering Technician,ST,SETAS-INFORM & COMMUNICATION TECH
+8122,DAC,OCCT,Ontario College Certificate,"Airframe Assembly
+
+Airframe Assembly",TR,SOT-AIRFRAME ASSEMBLY
+2884,PRO,OCGC,Ontario College Graduate Cert,Global Business Management,BU,BUS-INTERNATIONAL BUSINESS & LOGIST
+2867,PRO,OCGC,Ontario College Graduate Cert,Business Analytics and Insights - Canadian Context,BU,BUS-MARKETING&ENTREPRENEURSHIP
+2916,PRO,OCCT,Ontario College Certificate,Contact Centre Operations,BU,BUS-LEGAL AND ADMIN STUDIES
+1822,PRO,OCDP,Ontario College Diploma,Culinary Management,HT,SHTCA-FOOD AND TOURISM STUDIES
+2883,PRO,OCGC,Ontario College Graduate Cert,Global Business Management,BU,BUS-BUSINESS & MANAGEMENT STUDIES
+1837,PRO,OCDP,Ontario College Diploma,Hospitality - Hotel Operations Management,HT,SHTCA-HOSPITALITY MANAGEMENT
+1823,PRO,OCDP,Ontario College Diploma,Baking and Pastry Arts Management,HT,SHTCA-FOOD AND TOURISM STUDIES
+5115,HPC,OCAD,Ontario College Adv. Diploma,Massage Therapy,CH,SCHS-HEALTH AND WELLNESS STUDIES
+6415,CCC,OCGC,Ontario College Graduate Cert,Sports Journalism,CA,"CMAD-COMM, MEDIA & DESIGN"
+2413,PRO,OCAD,Ontario College Adv. Diploma,Business Administration - Marketing,BU,BUS-MARKETING&ENTREPRENEURSHIP
+6706,HPC,OCDP,Ontario College Diploma,Liberal Arts,AS,SELS-SCHOOL OF ENG.&LIBERAL STUDIES
+1869,OLP,OCCT,Ontario College Certificate,Hospitality Skills,HT,SHTCA-HOSPITALITY MANAGEMENT
+2896,PRO,OCGC,Ontario College Graduate Cert,International Development,BU,BUS-BUSINESS & MANAGEMENT STUDIES
+6010,DLO,OCGC,Ontario College Graduate Cert,Interactive Media Management,CA,"CMAD-COMM, MEDIA & DESIGN"
+9252,HPC,OCGC,Ontario College Graduate Cert,Bridging to University Nursing,CH,SCHS-REGISTERED  NURSING PROGRAMS
+1867,DLO,OCDP,Ontario College Diploma,Hospitality - Hotel Operations Management,HT,SHTCA-HOSPITALITY MANAGEMENT
+8224,ASH,OCCT,Ontario College Certificate,Motive Power Techniques - Truck and Coach,TR,SOT- MOTIVE POWER
+8211,ASH,OCDP,Ontario College Diploma,Automotive Parts and Service Operations,TR,SOT - AUTOMOTIVE & MOTORCYCLE
+3490,SUZ,OCDP,Ontario College Diploma,Software Engineering Technician,ST,SETAS-INFORM & COMMUNICATION TECH
+2719,PRO,OCAD,Ontario College Adv. Diploma,Business Administration - Human Resources,BU,BUS-BUSINESS & MANAGEMENT STUDIES
+1868,DLO,OCDP,Ontario College Diploma,Food and Beverage Management,HT,SHTCA-HOSPITALITY MANAGEMENT
+1829,SUZ,OCDP,Ontario College Diploma,Hospitality - Hotel Operations Management,HT,SHTCA-HOSPITALITY MANAGEMENT
+1828,SUZ,OCDP,Ontario College Diploma,Hospitality - Hotel Operations Management,HT,SHTCA-HOSPITALITY MANAGEMENT
+2819,SUZ,OCDP,Ontario College Diploma,Business - International Business,BU,BUS-BUSINESS & MANAGEMENT STUDIES
+9112,HPC,OCCT,Ontario College Certificate,Personal Support Worker,CH,SCHS-PRACTICAL NURSING AND PSW
+2319,DLO,OCDP,Ontario College Diploma,Business - International Business,BU,BUS-BUSINESS & MANAGEMENT STUDIES
+2383,DLO,OCDP,Ontario College Diploma,Financial Services,BU,BUS-ACCOUNTING & FINANCIAL SERVICES
+2344,DLO,OCGC,Ontario College Graduate Cert,Strategic Management - Accounting Specialization,BU,BUS-ACCOUNTING & FINANCIAL SERVICES
+2359,DLO,OCGC,Ontario College Graduate Cert,International Business Management,BU,BUS-BUSINESS & MANAGEMENT STUDIES
+1231,ASH,OCDP,Ontario College Diploma,Early Childhood Education,CH,SCHS-CHILD STUDIES
+2306,DLO,OCAD,Ontario College Adv. Diploma,Business Administration - Leadership and Management,BU,BUS-BUSINESS & MANAGEMENT STUDIES
+3630,DLO,OCGC,Ontario College Graduate Cert,Construction Project Management,ST,SETAS - SDRE
+2598,PRO,OCGC,Ontario College Graduate Cert,Project Management,BU,BUS-MARKETING&ENTREPRENEURSHIP
+3479,DLO,OCAD,Ontario College Adv. Diploma,Software Engineering Technology,ST,SETAS-INFORM & COMMUNICATION TECH
+2384,DLO,OCGC,Ontario College Graduate Cert,Global Business Management,BU,BUS-BUSINESS & MANAGEMENT STUDIES
+3679,DLO,OCAD,Ontario College Adv. Diploma,Game - Programming,ST,SETAS-INFORM & COMMUNICATION TECH
+2335,DLO,OCGC,Ontario College Graduate Cert,Marketing Management,BU,BUS-MARKETING&ENTREPRENEURSHIP
+3668,DLO,OCAD,Ontario College Adv. Diploma,Health Informatics Technology,ST,SETAS-INFORM & COMMUNICATION TECH
+2899,PRO,OCGC,Ontario College Graduate Cert,International Business Management,BU,BUS-BUSINESS & MANAGEMENT STUDIES
+2046,DLO,OCGC,Ontario College Graduate Cert,Marketing - Corporate Account Management,BU,BUS-MARKETING&ENTREPRENEURSHIP
+2022,DLO,OCCT,Ontario College Certificate,Business Foundations,BU,BUS-MARKETING&ENTREPRENEURSHIP
+3459,DLO,OCAD,Ontario College Adv. Diploma,Software Engineering Technology,ST,SETAS-INFORM & COMMUNICATION TECH
+2125,PRO,OCCT,Ontario College Certificate,Pre-Business,BU,BUS-MARKETING&ENTREPRENEURSHIP
+3419,PRO,OCAD,Ontario College Adv. Diploma,Software Engineering Technology,ST,SETAS-INFORM & COMMUNICATION TECH
+3279,DLO,OCGC,Ontario College Graduate Cert,Internet of Things - System Architecture and Integration,ST,SETAS-INFORM & COMMUNICATION TECH
+2811,SUZ,OCDP,Ontario College Diploma,Business - Accounting,BU,BUS-ACCOUNTING & FINANCIAL SERVICES
+3226,DLO,OCGC,Ontario College Graduate Cert,Mobile Applications Development,ST,SETAS-INFORM & COMMUNICATION TECH
+2382,DLO,OCGC,Ontario College Graduate Cert,Global Business Management,BU,BUS-BUSINESS & MANAGEMENT STUDIES
+3678,DLO,OCAD,Ontario College Adv. Diploma,Health Informatics Technology,ST,SETAS-INFORM & COMMUNICATION TECH
+3638,DLO,OCAD,Ontario College Adv. Diploma,Health Informatics Technology,ST,SETAS-INFORM & COMMUNICATION TECH
+3664,DLO,OCGC,Ontario College Graduate Cert,Cybersecurity,ST,SETAS-INFORM & COMMUNICATION TECH
+2303,DLO,OCAD,Ontario College Adv. Diploma,Business Administration - Marketing,BU,BUS-MARKETING&ENTREPRENEURSHIP
+3612,HPC,OCAD,Ontario College Adv. Diploma,Biotechnology Advanced,ST,SETAS-APPL BIO & ENVIRN SCIENCE
+2380,DLO,OCGC,Ontario College Graduate Cert,Global Business Management,BU,BUS-BUSINESS & MANAGEMENT STUDIES
+8225,ASH,OCCT,Ontario College Certificate,Motive Power Techniques - Heavy Duty Equipment,TR,SOT- MOTIVE POWER
+3639,DLO,OCAD,Ontario College Adv. Diploma,Game - Programming,ST,SETAS-INFORM & COMMUNICATION TECH
+2517,PRO,OCAD,Ontario College Adv. Diploma,Business Administration - Supply Chain and Operations Management,BU,BUS-BUSINESS & MANAGEMENT STUDIES
+3488,SUZ,OCDP,Ontario College Diploma,Software Engineering Technician,ST,SETAS-INFORM & COMMUNICATION TECH
+9114,HPC,OCCT,Ontario College Certificate,Personal Support Worker,CH,SCHS-PRACTICAL NURSING AND PSW
+1863,DLO,OCDP,Ontario College Diploma,Special Event Planning,HT,SHTCA-HOSPITALITY MANAGEMENT
+9113,HPC,OCCT,Ontario College Certificate,Personal Support Worker,CH,SCHS-PRACTICAL NURSING AND PSW
+1803,PRO,OCDP,Ontario College Diploma,Special Event Planning,HT,SHTCA-HOSPITALITY MANAGEMENT
+3642,HPC,OCAD,Ontario College Adv. Diploma,Biotechnology - Advanced,ST,SETAS-APPL BIO & ENVIRN SCIENCE
+2121,PRO,OCCT,Ontario College Certificate,Hospitality Foundations,HT,SHTCA-HOSPITALITY MANAGEMENT
+1843,PRO,OCDP,Ontario College Diploma,Special Event Planning,HT,SHTCA-HOSPITALITY MANAGEMENT
+2812,SUZ,OCDP,Ontario College Diploma,Business - Accounting,BU,
+9254,HPC,OCGC,Ontario College Graduate Cert,Bridging to University Nursing,CH,SCHS-REGISTERED  NURSING PROGRAMS
+2486,SUZ,OCDP,Ontario College Diploma,Financial Services,BU,
+3623,HPC,OCAD,Ontario College Adv. Diploma,Food Science Technology,ST,SETAS-APPL BIO & ENVIRN SCIENCE
+1848,PRO,OCDP,Ontario College Diploma,Food and Beverage Management,HT,SHTCA-HOSPITALITY MANAGEMENT
+2525,PLS,OCGC,Ontario College Graduate Cert,Project Management,BU,BUS-MARKETING&ENTREPRENEURSHIP
+2851,PLS,OCGC,Ontario College Graduate Cert,Strategic Management,BU,BUS-BUSINESS & MANAGEMENT STUDIES
+2885,ELS,OCGC,Ontario College Graduate Cert,Advanced Business Management - Alcoholic Beverages,BU,BUS-MARKETING&ENTREPRENEURSHIP
+9250,HPC,BSCN,Bachelor of Science Nursing,Collaborative Nursing,CH,SCHS-REGISTERED  NURSING PROGRAMS
+6419,CCC,OCGC,Ontario College Graduate Cert,Advertising - Account Management,CA,"CMAD-COMM, MEDIA & DESIGN"
+8207,ASH,OCCT,Ontario College Certificate,Trades Foundations - Motive Power,TR,SOT- MOTIVE POWER
+2820,SUZ,OCDP,Ontario College Diploma,Business - International Business,BU,BUS-BUSINESS & MANAGEMENT STUDIES
+1827,SUZ,OCDP,Ontario College Diploma,Hospitality - Hotel Operations Management,HT,SHTCA-HOSPITALITY MANAGEMENT
+2595,PLS,OCGC,Ontario College Graduate Cert,Project Management,BU,BUS-MARKETING&ENTREPRENEURSHIP
+8216,ASH,OCDP,Ontario College Diploma,Motive Power Technician,TR,SOT-CO-OP DIPLOMA PROGRAMS
+8206,ASH,OCDP,Ontario College Diploma,Motive Power Technician,TR,SOT-CO-OP DIPLOMA PROGRAMS
+3821,PRO,OCDP,Ontario College Diploma,Electrical Engineering Technician,ST,SETAS-CO-OP DIPLOMA PROGRAMS
+2126,SUZ,OCCT,Ontario College Certificate,Business Foundations,BU,
+2124,SUZ,OCCT,Ontario College Certificate,Business Foundations,BU,BUS-MARKETING&ENTREPRENEURSHIP
+2123,SUZ,OCCT,Ontario College Certificate,Business Foundations,BU,BUS-MARKETING&ENTREPRENEURSHIP
+601,CCC,OCAD,Ontario College Adv. Diploma,Journalism,CA,"CMAD-COMM, MEDIA & DESIGN"
+3745,PRO,OCAD,Ontario College Adv. Diploma,Mechanical Engineering Technology - Design,ST,SETAS-AD MANUFCT & AUTO TECH (AMAT)
+1825,PRO,OCAD,Ontario College Adv. Diploma,Hospitality and Tourism Administration,HT,SHTCA-HOSPITALITY MANAGEMENT
+1233,PLS,OCGC,Ontario College Graduate Cert,Workplace Wellness and Health Promotion,CH,SCHS-HEALTH AND WELLNESS STUDIES
+6412,CCC,OCAD,Ontario College Adv. Diploma,Journalism,CA,"CMAD-COMM, MEDIA & DESIGN"
+2933,PRO,OCCT,Ontario College Certificate,Financial and Client Services,BU,BUS-ACCOUNTING & FINANCIAL SERVICES
+2415,PRO,OCAD,Ontario College Adv. Diploma,Business Administration - Accounting,BU,BUS-ACCOUNTING & FINANCIAL SERVICES
+2419,PRO,OCAD,Ontario College Adv. Diploma,Business Administration - International Business,BU,BUS-BUSINESS & MANAGEMENT STUDIES
+2416,PRO,OCAD,Ontario College Adv. Diploma,Business Administration - Leadership and Management,BU,BUS-BUSINESS & MANAGEMENT STUDIES
+2877,PRO,OCGC,Ontario College Graduate Cert,International Business Management,BU,BUS-BUSINESS & MANAGEMENT STUDIES
+3824,PRO,OCAD,Ontario College Adv. Diploma,Electrical Engineering Technology,ST,SETAS-AD MANUFCT & AUTO TECH (AMAT)
+3115,HPC,OCAD,Ontario College Adv. Diploma,Architectural Technology,ST,SETAS - SDRE
+3119,PRO,OCAD,Ontario College Adv. Diploma,Software Engineering Technology - Interactive Gaming,ST,SETAS-INFORM & COMMUNICATION TECH
+3417,PRO,OCAD,Ontario College Adv. Diploma,Biomedical Engineering Technology,ST,SETAS - SDRE
+3415,PRO,OCAD,Ontario College Adv. Diploma,Computer Systems Technology - Networking,ST,SETAS-INFORM & COMMUNICATION TECH
+3216,PRO,OCAD,Ontario College Adv. Diploma,Electronics Engineering Technology,ST,SETAS - SDRE
+3757,PRO,OCAD,Ontario College Adv. Diploma,Energy Systems Engineering Technology,ST,SETAS - SDRE
+4116,PRO,OCAD,Ontario College Adv. Diploma,Electromechanical Engineering Technology,ST,SETAS-AD MANUFCT & AUTO TECH (AMAT)
+3714,PRO,OCAD,Ontario College Adv. Diploma,Mechanical Engineering Technology - Industrial,ST,SETAS-AD MANUFCT & AUTO TECH (AMAT)
+3748,PRO,OCAD,Ontario College Adv. Diploma,Mechanical Engineering Technology - Industrial,ST,SETAS-AD MANUFCT & AUTO TECH (AMAT)
+3713,PRO,OCAD,Ontario College Adv. Diploma,Mechanical Engineering Technology - Design,ST,SETAS-AD MANUFCT & AUTO TECH (AMAT)
+3518,PRO,OCAD,Ontario College Adv. Diploma,Health Informatics Technology,ST,SETAS-INFORM & COMMUNICATION TECH
+4212,HPC,OCAD,Ontario College Adv. Diploma,Environmental Technology,ST,SETAS-APPL BIO & ENVIRN SCIENCE
+3777,PRO,OCAD,Ontario College Adv. Diploma,Energy Systems Engineering Technology,ST,SETAS - SDRE
+4136,PRO,OCAD,Ontario College Adv. Diploma,Electromechanical Engineering Technology,ST,SETAS-AD MANUFCT & AUTO TECH (AMAT)
+2484,SUZ,OCDP,Ontario College Diploma,Financial Services-INT'L,BU,BUS-ACCOUNTING & FINANCIAL SERVICES
+8204,ASH,OCDP,Ontario College Diploma,Motive Power - Truck and Coach Technician,TR,SOT-CO-OP DIPLOMA PROGRAMS
+3838,PRO,OCDP,Ontario College Diploma,"Heating, Refrigeration and Air Conditioning Technician",ST,SETAS-RESTRICTED FUNDS
+2518,PRO,OCAD,Ontario College Adv. Diploma,Business Administration - Entrepreneurship,BU,BUS-MARKETING&ENTREPRENEURSHIP
+2508,PRO,OCAD,Ontario College Adv. Diploma,Business Administration - Entrepreneurship,BU,BUS-MARKETING&ENTREPRENEURSHIP
+8116,ASH,OCDP,Ontario College Diploma,Aviation Technician - Aircraft Maintenance,TR,SOT-AVIATION
+8205,ASH,OCDP,Ontario College Diploma,Motive Power - Heavy Duty Equipment Technician,TR,SOT-CO-OP DIPLOMA PROGRAMS
+6447,PLS,OCGC,Ontario College Graduate Cert,Public Relations - Corporate Communications,CA,"CMAD-COMM, MEDIA & DESIGN"
+8117,ASH,OCDP,Ontario College Diploma,Aviation Technician - Avionics Maintenance,TR,SOT-AVIATION
+2120,PRO,OCCT,Ontario College Certificate,Pre-Business,BU,BUS-BUSINESS & MANAGEMENT STUDIES
+8201,ASH,OCDP,Ontario College Diploma,Motive Power Technician - Administration,TR,SOT- MOTIVE POWER
+1212,ASH,OCCT,Ontario College Certificate,Early Childhood Assistant,CH,SCHS-CHILD STUDIES
+2725,PRO,OCGC,Ontario College Graduate Cert,Payroll Management,BU,BUS-MARKETING&ENTREPRENEURSHIP
+101,PRO,ADEG,Degree,Bachelor of Applied Information Sciences (Computer and Communication Networks),ST,SETAS-INFORM & COMMUNICATION TECH
+9135,HPC,OCDP,Ontario College Diploma,Practical Nursing,CH,SCHS-PRACTICAL NURSING AND PSW
+2730,PRO,OCGC,Ontario College Graduate Cert,Financial Fraud Investigation,BU,BUS-MARKETING&ENTREPRENEURSHIP
+2473,PRO,OCCT,Ontario College Certificate,Financial Services Fundamentals,BU,BUS-ACCOUNTING & FINANCIAL SERVICES
+4127,PRO,OCAD,Ontario College Adv. Diploma,Electro-Mechanical Engineering Technology - Automation and Robotics,ST,SETAS-AD MANUFCT & AUTO TECH (AMAT)
+2806,PRO,OCDP,Ontario College Diploma,Business,BU,BUS-BUSINESS & MANAGEMENT STUDIES
+103,PRO,ADEG,Degree,Bachelor of Applied  Information Sciences (Software Systems Design),ST,SETAS-INFORM & COMMUNICATION TECH
+111,PRO,ADEG,Degree,Bachelor of Applied Information Sciences (Software Systems Design),ST,SETAS-INFORM & COMMUNICATION TECH
+6903,ASH,OCCT,Ontario College Certificate,GAS - Intro Science,AS,SELS-SCHOOL OF ENG.&LIBERAL STUDIES
+401,HPC,OCAD,Ontario College Adv. Diploma,Environmental Protection Technology,ST,SETAS-APPL BIO & ENVIRN SCIENCE
+301,HPC,OCAD,Ontario College Adv. Diploma,Biotechnology Technologist - Industrial Microbiology,ST,SETAS-APPL BIO & ENVIRN SCIENCE
+1806,PRO,OCCT,Ontario College Certificate,Hospitality Operations - Kitchen Management,HT,SHTCA-HOSPITALITY MANAGEMENT
+6809,ASH,OCCT,Ontario College Certificate,General Arts and Science - One Year,AS,SELS-SCHOOL OF ENG.&LIBERAL STUDIES
+5851,HPC,OCDP,Ontario College Diploma,Pharmacy Technician,CH,SCHS-HEALTH AND WELLNESS STUDIES
+3000,PRO,OCCT,Ontario College Certificate,Technology Foundations,ST,SETAS - SDRE
+3001,HPC,OCCT,Ontario College Certificate,Technology Foundations,ST,SETAS - SDRE
+3127,PRO,OCAD,Ontario College Adv. Diploma,Computer Engineering Technology - Embedded Networks,ST,SETAS-INFORM & COMMUNICATION TECH
+1809,PRO,OCDP,Ontario College Diploma,Tourism Management - Cultural and Heritage Tourism,HT,SHTCA-HOSPITALITY MANAGEMENT
+3126,PRO,OCDP,Ontario College Diploma,Computer Engineering Technician - Embedded Networks,ST,SETAS-INFORM & COMMUNICATION TECH
+2099,PRO,0,Undeclared,Nipissing Centennial Joint,0,CORPORATE CONTROL
+2808,PRO,OCDP,Ontario College Diploma,Business Accounting - Financial and Credit Management,BU,BUS-ACCOUNTING & FINANCIAL SERVICES
+3117,PRO,OCAD,Ontario College Adv. Diploma,Computer Engineering Technology - Embedded Networks,ST,SETAS-INFORM & COMMUNICATION TECH
+3107,PRO,OCAD,Ontario College Adv. Diploma,Computer Engineering Technology - Embedded Networks,ST,SETAS-INFORM & COMMUNICATION TECH
+3106,PRO,OCDP,Ontario College Diploma,Computer Engineering Technician - Embedded Networks,ST,SETAS-INFORM & COMMUNICATION TECH
+3137,PRO,OCAD,Ontario College Adv. Diploma,Computer Engineering Technology - Embedded Networks,ST,SETAS-INFORM & COMMUNICATION TECH
+3820,PRO,OCDP,Ontario College Diploma,Mechanical Engineering Technician - Design,ST,SETAS-RESTRICTED FUNDS
+2445,PRO,OCAD,Ontario College Adv. Diploma,Business Administration - Accounting,BU,BUS-ACCOUNTING & FINANCIAL SERVICES
+5120,HPC,OCAD,Ontario College Adv. Diploma,Massage Therapy Refresher,CH,SCHS-HEALTH AND WELLNESS STUDIES
+9400,HPC,OCGC,Ontario College Graduate Cert,Registered Nurse - Perioperative Nursing,CH,SCHS-PRACTICAL NURSING AND PSW
+3613,PRO,OCGC,Ontario College Graduate Cert,Bioinformatics for Software Professionals,ST,SETAS-INFORM & COMMUNICATION TECH
+3505,HPC,OCCT,Ontario College Certificate,Laboratory Assistant - Industrial,ST,SETAS-APPL BIO & ENVIRN SCIENCE
+2443,PRO,OCAD,Ontario College Adv. Diploma,Financial Services,BU,BUS-ACCOUNTING & FINANCIAL SERVICES
+9120,HPC,OCGC,Ontario College Graduate Cert,Complementary Care,CH,SCHS-HEALTH AND WELLNESS STUDIES
+3711,PRO,OCDP,Ontario College Diploma,Mechanical Technician - CAD/CAM,ST,SETAS-AD MANUFCT & AUTO TECH (AMAT)
+2735,PRO,OCGC,Ontario College Graduate Cert,Pensions and Benefits Management,BU,BUS-BUSINESS & MANAGEMENT STUDIES
+2433,PRO,OCAD,Ontario College Adv. Diploma,Financial Services,BU,BUS-ACCOUNTING & FINANCIAL SERVICES
+3907,PRO,OCDP,Ontario College Diploma,Mechanical Technician - Tool and Die Maker,ST,SETAS-AD MANUFCT & AUTO TECH (AMAT)
+2423,PRO,OCAD,Ontario College Adv. Diploma,Financial Services,BU,BUS-ACCOUNTING & FINANCIAL SERVICES
+6437,CCC,OCGC,Ontario College Graduate Cert,Corporate Communications and Public Relations,CA,"CMAD-COMM, MEDIA & DESIGN"
+1804,PRO,OCDP,Ontario College Diploma,"Tourism and Travel
+Tourism and Travel
+Tourism and Travel",HT,SHTCA-HOSPITALITY MANAGEMENT
+1715,PRO,OCAD,Ontario College Adv. Diploma,Hospitality and Tourism Administration - International,HT,SHTCA-HOSPITALITY MANAGEMENT
+2526,PRO,OCDP,Ontario College Diploma,Business - Operations,BU,BUS-BUSINESS & MANAGEMENT STUDIES
+1705,PRO,OCAD,Ontario College Adv. Diploma,Hospitality and Tourism Administration,HT,SHTCA-HOSPITALITY MANAGEMENT
+2436,PRO,OCAD,Ontario College Adv. Diploma,Business Administration,BU,BUS-BUSINESS & MANAGEMENT STUDIES
+2456,PRO,OCAD,Ontario College Adv. Diploma,Business Administration,BU,BUS-BUSINESS & MANAGEMENT STUDIES
+2527,PRO,OCAD,Ontario College Adv. Diploma,Business Administration - Business Operations Management,BU,BUS-BUSINESS & MANAGEMENT STUDIES
